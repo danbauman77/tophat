@@ -42,15 +42,17 @@
 
 <p>Only non-government entities are required to submit "top hat statements" to DOL. That includes publicly traded companies, privately held companies, and private, non-profit companies (hereafter all referred to collectively as "private companies").</p>
 
-<p>To avoid all the regulation and scrutiny that comes with ERISA, these private companies must submit a "top hat statement" to DOL within 120 days of the top hat plan's establishment date. In practice, this "statement" takes the form of:</p>
+<p>To avoid all the regulation and scrutiny that comes with ERISA, these private companies must submit a "top hat statement" to DOL within 120 days of the top hat plan's establishment date. In practice, this "statement" takes the form<sup>1</sup> of:</p>
 
-• the name and address of the employer;
-• the employer identification number (EIN);
-• a declaration that the employer maintains plan(s) primarily for the purpose of providing
-deferred compensation for a select group of management or highly compensated
-employees; and
-• a statement of the number of such plans and the number of employees in each plan.
-
+<ul>
+  <li>the name and address of the employer;</li>
+  <li>the employer identification number (EIN);</li>
+  <li>a declaration that the employer maintains plan(s) primarily for the purpose of providing
+  deferred compensation for a select group of management or highly compensated
+  employees; and</li>
+  <li>a statement of the number of such plans and the number of employees in each plan.</li>
+ <ul>
+  
 <p><i>Reporting note: When The Chronicle interviewed the represenatives of university-employers that established tophat plans for their presidents, these representatives sought to create a distinction between a tophat plan's purported "establishment date" and the period in which the same tophat plan had been conceived as a result of contract negotiations with a president. All represenatives claimed the "establishment" of a plan had been a mere formality, and that pre-pandemic contract extensions or negotiations were a more accurate point of comparison for The Chronicle to use in any of its reporting.</i></p>
 
 <p><h2><strong>You Better Download The Actual Top Hat Statements</strong></h2></p>
