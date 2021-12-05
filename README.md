@@ -24,7 +24,7 @@
 
 <p>As an example, consider President Sarah Brown at Hoover University. Let's say President Brown's employment contract results in the establishment, in 2020, of a "nonqualified" deferred compensation plan for her. And Hoover University is contractually obligated to annually credit $100,000 into this "nonqualified" deferred compensation plan. Specifically, that creditting will occur on July 1st of each of the following years: 2021, 2022, 2023, 2024, and 2025 — as long as Brown is still employed at Hoover U.</p>
 
-<p>President Brown's deferred-compensation arrangement also sets the plan's vesting date as July 1, 2025 — but again only if Brown is still an employee of Hoover University on that date. No retiring early. No leaving for a cooler job somewhere else. To be owed that money will be credited towards her deferred compensation plan, Brown has to still be an employee of State University on July 1, 2025. 
+<p>President Brown's deferred-compensation arrangement also sets the plan's vesting date as July 1, 2025 — but again only if Brown is still an employee of Hoover University on that date. No retiring early. No leaving for a cooler job somewhere else. To be owed the money that will be credited towards her deferred compensation plan, Brown must still be an employee of Hoover U. on July 1, 2025. 
 
 <p>When 7/1/2025 arrives, if Brown is still an employee of Hoover U, HU will owe Brown at least $500,000 — compensation that Hoover University has been contractually crediting towards Brown's "nonqualified" deferred compensation plan since 2021. This compensation is likely in addition to the base compensation that Brown is traditionally paid every year, alongside any performance-based bonuses, allowances, or other perks. 
 
