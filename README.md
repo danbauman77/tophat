@@ -77,7 +77,7 @@
   <li>No. of Filings: 1</li>
 </ul>
   
-<p>But when you download the <a href="https://www.askebsa.dol.gov/tophatplansearch/Home/DownloadPdf?id=000000006927&form_type=Top%20Hat" target="_blank">actual statement pdf file</a> from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and ...</p>
+<p>But when you download the <a href="https://www.askebsa.dol.gov/tophatplansearch/Home/DownloadPdf?id=000000006927&form_type=Top%20Hat">actual statement pdf file</a> from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and ...</p>
 
 <p><h5>"The Plan is effective as of July 1, 2020 and was adopted on September 8, 2020. The Plan has one participant (Francesco C. Cesareo, Ph.D.)."</h5></p>
 
