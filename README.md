@@ -16,7 +16,7 @@
 
 <p><h2><strong>Okay... What Is The Difference Between a "Qualified" Deferred Compensation Plan and a "Nonqualified" Plan?</strong></h2></p>
 
-<p>A "qualified" deferred compensation plan is a pension plan governed under the Employee Retirement Income Security Act (ERISA).<sup>3</sup> Contributions made to a "qualified" deferred compensation plan are put into a trust that is separate from an employer's operations.<sup>4</sup> Traditional 401(k)s or 403(b)s are types of "qualified" deferred compensation plans. <sup>4</sup></p>
+<p>A "qualified" deferred compensation plan is a pension plan governed under the Employee Retirement Income Security Act (ERISA).<sup>3</sup> Contributions made to a "qualified" deferred compensation plan are put into a trust that is separate from an employer's operations.<sup>4</sup> Traditional 401(k)s or 403(b)s are types of "qualified" deferred compensation plans.<sup>4</sup></p>
 
 <p>A "nonqualified" deferred compensation plan works differently. Compensation contributed to these plans is considered part of an employer's assets, and can be used by that employer for business reasons.<sup>5</sup> Furthermore, if an employer goes bankrupt, the target-employee of this "nonqualified" deferred compensation plan is considered an unsecured creditor.<sup>6</sup>  And as described above, "nonqualified" deferred compensation plans are designed to incentivize employee longevity. In practice, this means if an employee fails to satisfy the terms of a deferred-compensation contractual arrangement, the employer does not owe compensation to that employee. </p>
 
