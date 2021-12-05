@@ -121,7 +121,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p><b>A:</b> I did integrate PPP loan "keyword" matches into this dataset. You <b>SHOULD NOT</b> consider that integration a blanket endorsement <b>FROM ME</b> to <b>UNCRITICALLY CITE</b> the existence of Covid-relief information within any final editorial product you generate.</p>
 
-<p>We had a vigorous debate at <i>The Chronicle</i> about what it meant for a college or university to seek out and/or accept federal relief during this pandemic. You should undertake a similar debate within yourself and/or your own newsroom if you are considering using PPP data, WARN alert data, or other supplementary data when reporting on these plans — even if you ultimately arrive at a different decision than <i>The Chronicle</i> did. Ultimately, the references to PPP data remain present in the file because it's possible additional reporting by and context from you may justify its reference in a final editorial product. 
+<p>We had a vigorous debate at <i>The Chronicle</i> about what it meant for a college or university to seek out and/or accept federal relief during this pandemic. You should undertake a similar debate within yourself and/or your own newsroom if you are considering using PPP data, WARN alert data, or other supplementary data when reporting on these plans — even if you ultimately arrive at a different decision than <i>The Chronicle</i> did. Ultimately, the references to PPP data remain present in the file because it's possible additional reporting and context from you may justify its reference in a final editorial product. 
 
 <p><h2><strong>Questions / Feedback / Improvements</strong></h2></p>
 
