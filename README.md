@@ -24,7 +24,7 @@
 
 <p>As an example, consider President Brown at State University. Let's say President Brown's employment contract results in the establishment, in 2015, of a "nonqualified" deferred compensation plan for her. And State University is contractually obligated to annually credit $100,000 into this "nonqualified" deferred compensation plan. Specifically, that creditting will occur on July 1st of each of the following years: 2016, 2017, 2018, 2019, and 2020 — as long as President Brown is still employed at State University.</p>
 
-<p>President Brown's deferred-compensation arrangement also sets the plan's vesting date as July 1, 2020, but again only if President Brown is still an employee of State University. No retiring early. No leaving for a cooler job somewhere else. President Brown has to still be with State University on July 1, 2020. 
+<p>President Brown's deferred-compensation arrangement also sets the plan's vesting date as July 1, 2020 — but again only if President Brown is still an employee of State University on that date. No retiring early. No leaving for a cooler job somewhere else. To be owed that money credited towards the deferred compensation plan, President Brown has to still be an employee of State University on July 1, 2020. 
 
 <p>When 7/1/2020 arrives, if President Brown is still an employee of State University, State University will owe President Brown at least $500,000 that State University has been contractually crediting towards that "nonqualified" deferred compensation plan since 2016. This compensation is likely in addition to the base compensation she traditionally is paid every year, along with any performance-based bonuses, allowances, or other perks. 
 
