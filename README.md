@@ -95,21 +95,21 @@
 
 <p><h2><strong>Anything Else?</strong></h2></p>
 
-<p>I can't stress this enough: <h3>Conduct your own due dillegence when it comes to these PPP and WARN alerts supplements!</h3></p>
+<p>I can't stress this enough: <b>Conduct your own due dillegence when it comes to these PPP and WARN alerts supplements!</b></p>
 
 <p><h2><strong>Why Should I?</strong></h2></p>
 
 <p>Because...</p>
 
-<p><h3>A:</h3> My searches were cursory;</p>
+<p><b>A:</b> My searches were cursory;</p>
 
-<p><h3>A:</h3> My appetite for entertaining false positives was greater than I'd stomach otherwise, given that I didn't intend to write about all of these datapoints or widely PUBLISH this dataset on The Chronicle's website;</p>
+<p><b>A:</b> My appetite for entertaining false positives was greater than I'd stomach otherwise, given that I didn't intend to write about all of these datapoints or widely PUBLISH this dataset on The Chronicle's website;</p>
 
-<p><h3>A:</h3> I didn't care to learn about the technical nuances of each state's WARN-alert systems. So I can't tell you why some states record even minor layoff events, while others barely track any;</p>
+<p><b>A:</b> I didn't care to learn about the technical nuances of each state's WARN-alert systems. So I can't tell you why some states record even minor layoff events, while others barely track any;</p>
 
-<p><h3>A:</h3> Because of the time, learning curve, and grunt work involved, I didn't integrate additional datapoints into this file, like data about federal Covid-relief dollars allocated to specific industries. Think airlines, colleges, or hospitals.</p> 
+<p><b>A:</b> Because of the time, learning curve, and grunt work involved, I didn't integrate additional datapoints into this file, like data about federal Covid-relief dollars allocated to specific industries. Think airlines, colleges, or hospitals.</p> 
 
-<p><h3>A:</h3> I also couldn't conceptualize an effective and comprehensive strategy for identifying other pandemic-era workforce events. All I could come up with was:</p>
+<p><b>A:</b> I also couldn't conceptualize an effective and comprehensive strategy for identifying other pandemic-era workforce events. All I could come up with was:</p>
 <ul>
   <li>Do a billion Google searches with different keywords AND 'company name.'</li>
   <li>Never see family or friends again.</li>
@@ -117,6 +117,6 @@
 
 <p>So, yeah, I passed on that;</p>
 
-<p><h3>A:</h3> I did integrate PPP loan "keyword" matches into this dataset. You <b>SHOULD NOT</b> consider that integration a blanket endorsement <b>FROM ME</b> to <b>UNCRITICALLY CITE</b> the existence of Covid-relief information within any final editorial product you generate.</p>
+<p><b>A:</b> I did integrate PPP loan "keyword" matches into this dataset. You <b>SHOULD NOT</b> consider that integration a blanket endorsement <b>FROM ME</b> to <b>UNCRITICALLY CITE</b> the existence of Covid-relief information within any final editorial product you generate.</p>
 
 <p>We had a vigorous debate at <i>The Chronicle</i> about what it meant for a college or university to seek out and/or accept federal relief during this pandemic. You should undertake a similar debate within yourself and/or your own newsroom if you are considering using PPP data, WARN alert data, or other supplementary data when reporting on these plans — even if you ultimately arrive at a different decision than <i>The Chronicle</i> did. Ultimately, the references to PPP data remain present in the file because it's possible additional reporting by and context from you may justify its reference in a final editorial product. 
