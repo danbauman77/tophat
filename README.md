@@ -26,7 +26,7 @@
 
 <p>President Brown's deferred-compensation arrangement also sets the plan's vesting date as July 1, 2020, but again only if President Brown is still an employee of State University. No retiring early. No leaving for a cooler job somewhere else. President Brown has to still be with State University on July 1, 2020. 
 
-<p>When July 1, 2020 arrives, if President Brown is still an employee of State University, State University will owe President Brown at least $500,000 that State University has been contractually crediting towards that "nonqualified" deferred compensation plan since 2016. This compensation is likely in addition to the base compensation she traditionally is paid every year, along with any performance-based bonuses, allowances, or other perks. 
+<p>When 7/1/2020 arrives, if President Brown is still an employee of State University, State University will owe President Brown at least $500,000 that State University has been contractually crediting towards that "nonqualified" deferred compensation plan since 2016. This compensation is likely in addition to the base compensation she traditionally is paid every year, along with any performance-based bonuses, allowances, or other perks. 
 
 <p>But if President Brown seperates from State University any time before 7/1/2020, State University no longer needs to credit money towards that "nonqualified" deferred compensation plan. Nor does it need to anticipate owing President Brown any taxable compensation in 2020.</p>
 
