@@ -14,7 +14,7 @@
 
 <p>"Top hat pension plans are a type of nonqualified deferred compensation (NQDC) arrangement. Employers maintain NQDC plans for a number of reasons, including recruiting employees, incentivizing employees to remain employed for a specified period (sometimes referred to as a 'golden handcuffs' arrangement), and supplementing retirement benefits provided under tax-qualified retirement plans."<sup>2</sup></p>
 
-<p class="has-medium-font-size"><strong>Okay... How Does  "Deferred Compensation Plan" become "Qualified?" And What's a "Nonqualified" Deferred Compensation Plan?</strong></p>
+<p><h2><strong>Okay... How Does  "Deferred Compensation Plan" become "Qualified?" And What's a "Nonqualified" Deferred Compensation Plan?</strong></h2></p>
 
 <p>A "qualified" deferred compensation plan is a pension plan governed under the Employee Retirement Income Security Act (ERISA). Contributions made to a "qualified" deferred compensation plan are put into a trust that is separate from an employer's operations. Traditional 401(k)s or 403(b)s are types of "qualified" deferred compensation plans. </p>
 
