@@ -88,7 +88,7 @@
 Congizent of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:
 <ol>
   <li> Hits I got using ProPublica's <a href="https://projects.propublica.org/coronavirus/bailouts/" target="_blank">searchable database of Small Business Administration PPP loans</a></li>
-  <li> Hits I got searching through 2020-2021 WARN alerts published by 40+ states</li>
+  <li> Hits I got searching through WARN alerts published by 40+ states for 2020 and 2021</li>
 </ol>
 
 <p><h2><strong>I Can't Stress This Enough</strong></h2></p>
