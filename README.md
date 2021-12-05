@@ -127,7 +127,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p>Email the repository's maintainer at dan.bauman@chronicle.com.</p>
 
-<p><h2><strong>Sources></h2></p>
+<p><h2><strong>Sources</strong></h2></p>
 
 1. https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/about-us/erisa-advisory-council/2020-examining-top-hat-plan-participation-and-reporting.pdf
 
