@@ -61,7 +61,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p>Yes!</p> 
 
-<p>For whatever reason, the top hat dataset obtained from DOL fails to include all of the contextual information present in electroinically submitted top hat statements. For instance, consider this row from the dataset, which concerns a filing from Assumption University, dated 9/9/2020:</p> 
+<p>For whatever reason, the top hat dataset obtained from DOL fails to include all of the contextual information present in electronically submitted top hat statements. For instance, consider this row from the dataset, which concerns a filing from Assumption University, dated 9/9/2020:</p> 
 
 <ul>
   <li>Filing Date: 9/9/2020</li>
@@ -81,7 +81,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
   <li>No. of Filings: 1</li>
 </ul>
   
-<p>But when you download the <a href="https://www.askebsa.dol.gov/tophatplansearch/Home/DownloadPdf?id=000000006927&form_type=Top%20Hat">actual statement pdf file</a> from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and ...</p>
+<p>But when you download the <a href="https://www.askebsa.dol.gov/tophatplansearch/Home/DownloadPdf?id=000000006927&form_type=Top%20Hat">actual statement pdf file</a> from DOL's portal, we learn some additional information about this plan. There's the name of the plan administrator, their contact information, and ...</p>
 
 > "The Plan is effective as of July 1, 2020 and was adopted on September 8, 2020. The Plan has one participant (Francesco C. Cesareo, Ph.D.)."
 
@@ -89,7 +89,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p><h2><strong>What's This Stuff About PPP Loans and WARN Alerts?</strong></h2></p>
 
-<p>Congizent of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:</p>
+<p>Cognizant of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:</p>
 <ol>
   <li> Hits I got using ProPublica's <a href="https://projects.propublica.org/coronavirus/bailouts/" target="_blank">searchable database of Small Business Administration PPP loans</a></li>
   <li> Hits I got searching through WARN alerts published by 40+ states for 2020 and 2021</li>
