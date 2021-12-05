@@ -40,7 +40,7 @@
 
 <p><h2><strong>What Else Should I Know About This Data?</strong></h2></p>
 
-<p>Only non-government entities are required to submit "top hat statements" to DOL. That means publicly traded companies, privately held companies, and private, non-profit companies (hereafter referred to as "private companies).</p>
+<p>Only non-government entities are required to submit "top hat statements" to DOL. That means publicly traded companies, privately held companies, and private, non-profit companies (hereafter all referred to collectively as "private companies").</p>
 
 <p>To avoid all the regulation and scrutiny that comes with ERISA, these private companies must submit a "top hat statement" to DOL within 120 days of the top hat plan's establishment date. In practice, this "statement" takes the form of:</p>
 
@@ -53,7 +53,7 @@ employees; and
 
 <p><i>Reporting note: When The Chronicle interviewed the represenatives of university-employers that established tophat plans for their presidents, these representatives sought to create a distinction between a tophat plan's purported "establishment date" and the period in which the same tophat plan had been conceived as a result of contract negotiations with a president. All represenatives claimed the "establishment" of a plan had been a mere formality, and that pre-pandemic contract extensions or negotiations were a more accurate point of comparison for The Chronicle to use in any of its reporting.</i></p>
 
-<p class="has-medium-font-size"><strong>You Better Download The Actual Top Hat Statements</strong></p>
+<p><h2><strong>You Better Download The Actual Top Hat Statements</strong></h2></p>
 
 For whatever reason, the top hat dataset obtained from DOL fails to include all of the contextual information present in electroinically submitted top hat statements. For instance, consider this row from the dataset, which concerns a filing from Assumption University, dated 9/9/2020: 
 
