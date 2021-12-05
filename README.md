@@ -53,7 +53,7 @@
   <li>a statement of the number of such plans and the number of employees in each plan.</li>
 </ul>
 
-<p>Reporting note: <i>When The Chronicle interviewed the represenatives of university-employers that established top hat plans for their presidents, these representatives sought to create a distinction between a tophat plan's purported "establishment date" and the time period during which the same tophat plan was conceived of — usually as a result of contract negotiations between a university's governing board and its president. All represenatives claimed the "establishment" of a plan had been a mere formality, and that pre-pandemic contract extensions or negotiations were a more accurate point of comparison for The Chronicle to use in any of its reporting.</i></p>
+<p>Reporting note: <i>When The Chronicle interviewed the represenatives of university-employers that established top hat plans for their presidents, these representatives sought to create a distinction between a top hat plan's purported "establishment date" and the time period during which the same top hat plan was conceived of — usually as a result of contract negotiations between a university's governing board and its president. All represenatives claimed the "establishment" of a plan was a mere formality, and that The Chronicle should use pre-pandemic contract extensions or negotiations as a more accurate point of comparison in our reporting.</i></p>
 
 <p><h2><strong>You Better Download The Actual Top Hat Statements</strong></h2></p>
 
