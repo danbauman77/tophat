@@ -83,13 +83,15 @@
 
 <p>Francesco C. Cesareo is the president of Assumption University. Obviously, that is some very important information for my reporting that I wouldn't have known about had I not downloaded the actual statement.</p>
 
-<p><h2><strong>What's This Stuff About PPP Loans and WARN Alerts</strong></h2></p>
+<p><h2><strong>What's This Stuff About PPP Loans and WARN Alerts?</strong></h2></p>
 
 Congizent of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:
-1. Hits I got using ProPublica's searchable database of Small Business Administration PPP loans
-2. Hits I got searching through 2020-2021 WARN alerts published by 40+ states
+<ol>
+  <li> Hits I got using ProPublica's <a href="https://projects.propublica.org/coronavirus/bailouts/" target="_blank">searchable database of Small Business Administration PPP loans</a></li>
+  <li> Hits I got searching through 2020-2021 WARN alerts published by 40+ states</li>
+</ol>
 
-<p class="has-medium-font-size"><strong>I Can't Stress This Enough</strong></p>
+<p><h2><strong>I Can't Stress This Enough</strong></h2></p>
 
 Conduct your own due dillegence when it comes to these PPP and WARN alerts supplements! Why? 
 
