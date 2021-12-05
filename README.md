@@ -34,7 +34,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p><h2><strong>Okay... What Makes a Nonqualified Deferred Compensation Plan "Unfunded" Instead of "Funded?"</strong></h2></p>
 
-<p>The "unfunded" or "funded" nature of a plan indicates how its future payments will financed.</p>
+<p>The "unfunded" or "funded" nature of a plan indicates how its future payments will be financed.</p>
 
 <p>When a deferred compensatioin plan is "funded," an employer is actively and systemically setting aside cash in advance to cover the employer's obligations as defined by the deferred-compensation contractual arrangement.<sup>4</sup></p>
 
