@@ -30,7 +30,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p>When 7/1/2025 arrives, if Brown is still an employee of Hoover U., HU will owe Brown at least $500,000 — compensation that Hoover University has been contractually crediting towards Brown's "nonqualified" deferred compensation plan since 2021. This compensation is likely in addition to the base compensation that Brown is traditionally paid every year, alongside any performance-based bonuses, allowances, or other perks. 
 
-<p>But if Brown seperates from Hoover U. at any time before 7/1/2025, HU no longer needs to credit money towards Brown's "nonqualified" deferred compensation plan. Nor does Hoover U. need to anticipate owing Brown any taxable compensation in 2025.</p>
+<p>But if Brown separates from Hoover U. at any time before 7/1/2025, HU no longer needs to credit money towards Brown's "nonqualified" deferred compensation plan. Nor does Hoover U. need to anticipate owing Brown any taxable compensation in 2025.</p>
 
 <p><h2><strong>Okay... What Makes a Nonqualified Deferred Compensation Plan "Unfunded" Instead of "Funded?"</strong></h2></p>
 
