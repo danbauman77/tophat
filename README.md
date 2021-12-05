@@ -55,7 +55,9 @@
 
 <p>Reporting note: <i>When The Chronicle interviewed the represenatives of university-employers that established top hat plans for their presidents, these representatives sought to create a distinction between a top hat plan's purported "establishment date" and the time period during which the same top hat plan was conceived of — usually as a result of contract negotiations between a university's governing board and its president. All represenatives claimed the "establishment" of a plan was a mere formality, and that The Chronicle should use pre-pandemic contract extensions or negotiations as a more accurate point of comparison in our reporting.</i></p>
 
-<p><h2><strong>You Better Download The Actual Top Hat Statements</strong></h2></p>
+<p><h2><strong>Should I Download The Actual Top Hat Statements</strong></h2></p>
+
+<p>Yes!</p> 
 
 <p>For whatever reason, the top hat dataset obtained from DOL fails to include all of the contextual information present in electroinically submitted top hat statements. For instance, consider this row from the dataset, which concerns a filing from Assumption University, dated 9/9/2020:</p> 
 
@@ -85,22 +87,36 @@
 
 <p><h2><strong>What's This Stuff About PPP Loans and WARN Alerts?</strong></h2></p>
 
-Congizent of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:
+<p>Congizent of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:</p>
 <ol>
   <li> Hits I got using ProPublica's <a href="https://projects.propublica.org/coronavirus/bailouts/" target="_blank">searchable database of Small Business Administration PPP loans</a></li>
   <li> Hits I got searching through WARN alerts published by 40+ states for 2020 and 2021</li>
 </ol>
 
-<p><h2><strong>I Can't Stress This Enough</strong></h2></p>
+<p><h2><strong>Anything Else?</strong></h2></p>
 
-Conduct your own due dillegence when it comes to these PPP and WARN alerts supplements! Why? 
+<p>I can't stress this enough: <h3>Conduct your own due dillegence when it comes to these PPP and WARN alerts supplements!</h3></p>
 
-A: My searches were cursory
+<p><h2><strong>Why Should I?</strong></h2></p>
 
-A: My appetite for entertaining false positives was greater than I'd stomach otherwise, given that I didn't intend to write about these particular datapoints or PUBLISH-PUBLISH this dataset. 
+<p>Because...</p>
 
-A: I didn't care to learn about the technical nuances of each state's WARN-alert systems. So I can't tell you why some states record even minor layoff events, while others barely track any.
+<p><h3>A:</h3> My searches were cursory;</p>
 
-A: Because of the time, learning curve, and grunt work involved, I didn't integrate additional datapoints into this file, like data about federal Covid-relief to specific industries. Think airlines, colleges, or hospitals. I also couldn't conceptualize an effective and comprehensive strategy for identifying other pandemic-era workplace events. All I could come up with was "do a billion Google searches with different keywords AND 'company name.' Never see family or friends again." So, yeah, I passed on that. 
+<p><h3>A:</h3> My appetite for entertaining false positives was greater than I'd stomach otherwise, given that I didn't intend to write about all of these datapoints or widely PUBLISH this dataset on The Chronicle's website;</p>
 
-A: I did integrate PPP loan "keyword" matches into this dataset. You SHOULD NOT consider that integration a blanket endorsement FROM ME to UNCRITICALLY CITE the existence of Covid-relief information within any final editorial product you generate. We had a vigorous debate at The Chronicle about what it meant for a college or university to seek out and/or accept federal relief during this pandemic. You should undertake a similar debate within yourself and/or your own newsroom if you are considering using PPP data, WARN alert data, or other supplementary data when reporting on these plans — even if you ultimately arrive at a different decision than The Chronicle did. Ultimately, the references to PPP data remain present in the file because it's possible additional reporting by and context from you may justify its reference in a final editorial product. 
+<p><h3>A:</h3> I didn't care to learn about the technical nuances of each state's WARN-alert systems. So I can't tell you why some states record even minor layoff events, while others barely track any;</p>
+
+<p><h3>A:</h3> Because of the time, learning curve, and grunt work involved, I didn't integrate additional datapoints into this file, like data about federal Covid-relief dollars allocated to specific industries. Think airlines, colleges, or hospitals.</p> 
+
+<p><h3>A:</h3> I also couldn't conceptualize an effective and comprehensive strategy for identifying other pandemic-era workforce events. All I could come up with was:</p>
+<ul>
+  <li>Do a billion Google searches with different keywords AND 'company name.'</li>
+  <li>Never see family or friends again.</li>
+</ul>
+
+<p>So, yeah, I passed on that;</p>
+
+<p><h3>A:</h3> I did integrate PPP loan "keyword" matches into this dataset. You <b>SHOULD NOT</b> consider that integration a blanket endorsement <b>FROM ME</b> to <b>UNCRITICALLY CITE</b> the existence of Covid-relief information within any final editorial product you generate.</p>
+
+<p>We had a vigorous debate at <i>The Chronicle</i> about what it meant for a college or university to seek out and/or accept federal relief during this pandemic. You should undertake a similar debate within yourself and/or your own newsroom if you are considering using PPP data, WARN alert data, or other supplementary data when reporting on these plans — even if you ultimately arrive at a different decision than <i>The Chronicle</i> did. Ultimately, the references to PPP data remain present in the file because it's possible additional reporting by and context from you may justify its reference in a final editorial product. 
