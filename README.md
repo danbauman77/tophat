@@ -1,4 +1,4 @@
-<h1 id="u-s-department-of-labor-top-hat-plan-data">U.S. Department of Labor Top Hat Plan data</h1>
+#<h1 id="u-s-department-of-labor-top-hat-plan-data">U.S. Department of Labor Top Hat Plan data</h1>
 
 <p>What this repository contains:</p> 
 <ol>
@@ -8,7 +8,7 @@
 
 <p>As mentioned, the centerpiece data in this repository comes from the U.S. Department of Labor. A <a rel="noreferrer noopener" href="https://www.askebsa.dol.gov/tophatplansearch" data-type="URL" data-id="https://www.askebsa.dol.gov/tophatplansearch" target="_blank">limited-feature search portal</a> is available on DOL's website (as of 12/4/2021) to download "top hat statement" pdf files. However, this portal lacks key contextual information (<a href="https://www.askebsa.dol.gov/efile/Home/tophat" target="_blank" rel="noreferrer noopener">input via form</a>). Thankfully, that additional contextual information is available in a dataset format.</p>
 
-<p class="has-medium-font-size"><strong>What are Top Hat Plans?</strong></p>
+#<p class="has-medium-font-size"><strong>What are Top Hat Plans?</strong></p>
 
 <p>Top hat plans are "unfunded, nonqualified deferred compensation plans covering a 'select group of management or highly compensated employees.'" </p>
 
@@ -20,7 +20,7 @@
 
 <p>A "nonqualified" deferred compensation plan works differently. Compensation contributed to these plans is considered part of an employer's assets, and can be used by that employer for business reasons. Furthermore, if an employer goes bankrupt, the target-employee of this "nonqualified" deferred compensation plan is considered an unsecured creditor. And as described above, "nonqualified" deferred compensation plans are designed to incentivize employee longevity. In practice, this means if an employee fails to satisfy the terms of a deferred-compensation contractual arrangement, the employer does not owe this employee compensation. </p>
 
-<p class="has-medium-font-size"><strong>I Still Don't Get It</strong></p>
+#<p class="has-medium-font-size"><strong>I Still Don't Get It</strong></p>
 
 <p>As an example, consider President Brown at State University. Let's say President Brown's employment contract establishes in 2015 a "nonqualified" deferred compensation plan for her. And State University is contractually obligated to annually credit $100,000 this "nonqualified" deferred compensation plan on July 1st of each of the following years: 2016, 2017, 2018, 2019, and 2020 — as long as President Brown is still employed at State University.</p>
 
@@ -70,8 +70,8 @@ Employer City: Worcester
 Employer State: MA
 Employer Zip Code: 01609
 Participants: 1
-# Plans in Filing: 1
-# Filings: 1
+No. of Plans in Filing: 1
+No. of Filings: 1
 
 But when you download the actual statement pdf file from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and this ...
 
