@@ -3,7 +3,7 @@
 <p>What this repository contains:</p> 
 <ol>
   <li>Top Hat Plan data, obtained via FOIA request to the U.S. Department of Labor</li>
-  <li>That data, supplemented with links to additional sources of employer information (specifically, Paycheck Protection Program and WARN alert datapoints)</li>
+  <li>That data, supplemented with links to additional sources of employer information (specifically, Paycheck Protection Program and WARN alert data points)</li>
 </ol>
 
 <p>As mentioned, the centerpiece data in this repository comes from the U.S. Department of Labor. A <a rel="noreferrer noopener" href="https://www.askebsa.dol.gov/tophatplansearch" data-type="URL" data-id="https://www.askebsa.dol.gov/tophatplansearch" target="_blank">limited-feature search portal</a> is available on DOL's website (as of 12/4/2021) to download "top hat statement" pdf files. However, this portal lacks key contextual information (<a href="https://www.askebsa.dol.gov/efile/Home/tophat" target="_blank" rel="noreferrer noopener">input via web form by employers</a>). Thankfully, that additional contextual information is available in a dataset format.</p>
