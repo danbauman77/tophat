@@ -2,7 +2,7 @@
 
 <p>What this repository contains:</p> 
 <ol>
-  <li>Top Hat Data, obtained via FOIA request to the U.S. Department of Labor</li>
+  <li>Top Hat Plan data, obtained via FOIA request to the U.S. Department of Labor</li>
   <li>That data, supplemented with links to additional sources of employer information (specifically, Paycheck Protection Program and WARN alert datapoints)</li>
 </ol>
 
