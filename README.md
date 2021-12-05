@@ -1,4 +1,4 @@
-<h1 id="u-s-department-of-labor-top-hat-plan-data">U.S. Department of Labor Top Hat Plan data</h1>
+<h1>U.S. Department of Labor Top Hat Plan data</h1>
 
 <p>What this repository contains:</p> 
 <ol>
@@ -8,7 +8,7 @@
 
 <p>As mentioned, the centerpiece data in this repository comes from the U.S. Department of Labor. A <a rel="noreferrer noopener" href="https://www.askebsa.dol.gov/tophatplansearch" data-type="URL" data-id="https://www.askebsa.dol.gov/tophatplansearch" target="_blank">limited-feature search portal</a> is available on DOL's website (as of 12/4/2021) to download "top hat statement" pdf files. However, this portal lacks key contextual information (<a href="https://www.askebsa.dol.gov/efile/Home/tophat" target="_blank" rel="noreferrer noopener">input via form</a>). Thankfully, that additional contextual information is available in a dataset format.</p>
 
-<p class="has-medium-font-size"><strong>What are Top Hat Plans?</strong></p>
+<p><h2><strong>What are Top Hat Plans?</strong></h2></p>
 
 <p>Top hat plans are "unfunded, nonqualified deferred compensation plans covering a 'select group of management or highly compensated employees.'" </p>
 
