@@ -103,7 +103,7 @@
 
 <p><b>A:</b> My searches were cursory;</p>
 
-<p><b>A:</b> My appetite for entertaining false positives was greater than I'd stomach otherwise, given that I didn't intend to write about all of these datapoints or widely PUBLISH this dataset on The Chronicle's website;</p>
+<p><b>A:</b> My appetite for entertaining false positives was greater than I'd stomach otherwise, given that I didn't intend to write about all of these datapoints or widely PUBLISH this dataset on <i>The Chronicle</i>'s website;</p>
 
 <p><b>A:</b> I didn't care to learn about the technical nuances of each state's WARN-alert systems. So I can't tell you why some states record even minor layoff events, while others barely track any;</p>
 
