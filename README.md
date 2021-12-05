@@ -43,7 +43,6 @@
 <p>Only non-government entities are required to submit "top hat statements" to DOL. That includes publicly traded companies, privately held companies, and private, non-profit companies (hereafter all referred to collectively as "private companies").</p>
 
 <p>To avoid all the regulation and scrutiny that comes with ERISA, these private companies must submit a "top hat statement" to DOL within 120 days of the top hat plan's establishment date. In practice, this "statement" takes the form<sup>1</sup> of:</p>
-
 <ul>
   <li>the name and address of the employer;</li>
   <li>the employer identification number (EIN);</li>
