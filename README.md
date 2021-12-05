@@ -26,7 +26,7 @@
 
 <p>President Brown's deferred-compensation arrangement also sets the plan's vesting date as July 1, 2025 — but again only if Brown is still an employee of Hoover University on that date. No retiring early. No leaving for a cooler job somewhere else. To be owed the money that will be credited towards her deferred compensation plan, Brown must still be an employee of Hoover U. on July 1, 2025. 
 
-<p>When 7/1/2025 arrives, if Brown is still an employee of Hoover U, HU will owe Brown at least $500,000 — compensation that Hoover University has been contractually crediting towards Brown's "nonqualified" deferred compensation plan since 2021. This compensation is likely in addition to the base compensation that Brown is traditionally paid every year, alongside any performance-based bonuses, allowances, or other perks. 
+<p>When 7/1/2025 arrives, if Brown is still an employee of Hoover U., HU will owe Brown at least $500,000 — compensation that Hoover University has been contractually crediting towards Brown's "nonqualified" deferred compensation plan since 2021. This compensation is likely in addition to the base compensation that Brown is traditionally paid every year, alongside any performance-based bonuses, allowances, or other perks. 
 
 <p>But if Brown seperates from Hoover U. any time before 7/1/2025, HU no longer needs to credit money towards that "nonqualified" deferred compensation plan. Nor does it need to anticipate owing Brown any taxable compensation in 2025.</p>
 
