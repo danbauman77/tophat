@@ -8,6 +8,8 @@
 
 <p>As mentioned, the centerpiece data in this repository comes from the U.S. Department of Labor. A <a href="https://www.askebsa.dol.gov/tophatplansearch" target="_blank">limited-feature search portal</a> is available on DOL's website (as of 12/4/2021) to download "top hat statement" pdf files. However, this portal lacks key contextual information (<a href="https://www.askebsa.dol.gov/efile/Home/tophat" target="_blank">input via web form by employers</a>). Thankfully, that additional contextual information is available in a dataset format.</p>
 
+Using this data, _The Chronicle_ published the story <a href="https://www.chronicle.com/article/just-rewards" target="_blank">"These Colleges Cut Back During the Pandemic. Except When It Came to Their Presidents’ Pay Packages."</a>
+
 <p><h2><strong>What are Top Hat Plans?</strong></h2></p>
 
 <p>Top hat plans are "unfunded, nonqualified deferred compensation plans covering a 'select group of management or highly compensated employees.'"<sup>1</sup> </p>
