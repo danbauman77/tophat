@@ -89,7 +89,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p><h2><strong>What's This Stuff About PPP Loans and WARN Alerts?</strong></h2></p>
 
-<p>Cognizant of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:</p>
+<p>Cognizant of the valuable information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:</p>
 <ol>
   <li> Hits I got using ProPublica's <a href="https://projects.propublica.org/coronavirus/bailouts/" target="_blank">searchable database of Small Business Administration PPP loans</a></li>
   <li> Hits I got searching through WARN alerts published by 40+ states for 2020 and 2021</li>
