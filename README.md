@@ -121,6 +121,6 @@
 
 <p>We had a vigorous debate at <i>The Chronicle</i> about what it meant for a college or university to seek out and/or accept federal relief during this pandemic. You should undertake a similar debate within yourself and/or your own newsroom if you are considering using PPP data, WARN alert data, or other supplementary data when reporting on these plans — even if you ultimately arrive at a different decision than <i>The Chronicle</i> did. Ultimately, the references to PPP data remain present in the file because it's possible additional reporting by and context from you may justify its reference in a final editorial product. 
 
-<p><h2><strong>Questions / Feedback / Improvements</p></h2></strong>
+<p><h2><strong>Questions / Feedback / Improvements</strong></h2></p>
 
 <p>Email the repository's maintainer at dan.bauman@chronicle.com.</p>
