@@ -20,7 +20,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p>A "qualified" deferred compensation plan is a pension plan governed under the Employee Retirement Income Security Act (ERISA).<sup>2</sup> Contributions made to a "qualified" deferred compensation plan are put into a trust that is separate from an employer's operations.<sup>3</sup> Traditional 401(k)s or 403(b)s are types of "qualified" deferred compensation plans.<sup>3</sup></p>
 
-<p>A "nonqualified" deferred compensation plan works differently. Compensation contributed to these plans is considered part of an employer's assets, and can be used by that employer for business reasons.<sup>3</sup> And as described above, "nonqualified" deferred compensation plans are designed to incentivize employee longevity. In practice, this means if an employee fails to satisfy the terms of a deferred-compensation contractual arrangement, the employer does not owe compensation to that employee. </p>
+<p>A "nonqualified" deferred compensation plan works differently. Compensation contributed to these plans is considered part of an employer's assets, and can be used by that employer for business reasons.3 And as described above, "nonqualified" deferred compensation plans are designed to incentivize employee longevity. In practice, this means if an employee fails to satisfy the terms of a "nonqualified" deferred-compensation contractual arrangement, the employer does not owe compensation to that employee.</p>
 
 <p><h2><strong>I Still Don't Get It</strong></h2></p>
 
