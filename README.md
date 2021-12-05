@@ -12,7 +12,7 @@
 
 <p>Top hat plans are "unfunded, nonqualified deferred compensation plans covering a 'select group of management or highly compensated employees.'"<sup>1</sup> </p>
 
-<p>"Top hat pension plans are a type of nonqualified deferred compensation (NQDC) arrangement. Employers maintain NQDC plans for a number of reasons, including recruiting employees, incentivizing employees to remain employed for a specified period (sometimes referred to as a 'golden handcuffs' arrangement), and supplementing retirement benefits provided under tax-qualified retirement plans."</p>
+<p>"Top hat pension plans are a type of nonqualified deferred compensation (NQDC) arrangement. Employers maintain NQDC plans for a number of reasons, including recruiting employees, incentivizing employees to remain employed for a specified period (sometimes referred to as a 'golden handcuffs' arrangement), and supplementing retirement benefits provided under tax-qualified retirement plans."<sup>2</sup></p>
 
 <p class="has-medium-font-size"><strong>Okay... How Does  "Deferred Compensation Plan" become "Qualified?" And What's a "Nonqualified" Deferred Compensation Plan?</strong></p>
 
