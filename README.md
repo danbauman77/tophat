@@ -57,7 +57,7 @@ Using this data, _The Chronicle_ published the story <a href="https://www.chroni
 
 <p>Reporting note: <i>When The Chronicle interviewed the represenatives of university-employers that established top hat plans for their presidents, these representatives sought to create a distinction between a top hat plan's purported "establishment date" and the time period during which the same top hat plan was conceived of — usually as a result of contract negotiations between a university's governing board and its president. All represenatives claimed the "establishment" of a plan was a mere formality, and that The Chronicle should use pre-pandemic contract extensions or negotiations as a more accurate point of comparison in our reporting.</i></p>
 
-<p><h2><strong>Should I Download The Actual Top Hat Statements</strong></h2></p>
+<p><h2><strong>Should I Download The Actual Top Hat Statements?</strong></h2></p>
 
 <p>Yes!</p> 
 
