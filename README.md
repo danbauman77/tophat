@@ -16,11 +16,11 @@
 
 <p><h2><strong>Okay... What Is The Difference Between a "Qualified" Deferred Compensation Plan and a "Nonqualified" Plan?</strong></h2></p>
 
-<p>A "qualified" deferred compensation plan is a pension plan governed under the Employee Retirement Income Security Act (ERISA). Contributions made to a "qualified" deferred compensation plan are put into a trust that is separate from an employer's operations. Traditional 401(k)s or 403(b)s are types of "qualified" deferred compensation plans. </p>
+<p>A "qualified" deferred compensation plan is a pension plan governed under the Employee Retirement Income Security Act (ERISA).<sup>3</sup> Contributions made to a "qualified" deferred compensation plan are put into a trust that is separate from an employer's operations.<sup>4</sup> Traditional 401(k)s or 403(b)s are types of "qualified" deferred compensation plans. <sup>4</sup></p>
 
-<p>A "nonqualified" deferred compensation plan works differently. Compensation contributed to these plans is considered part of an employer's assets, and can be used by that employer for business reasons. Furthermore, if an employer goes bankrupt, the target-employee of this "nonqualified" deferred compensation plan is considered an unsecured creditor. And as described above, "nonqualified" deferred compensation plans are designed to incentivize employee longevity. In practice, this means if an employee fails to satisfy the terms of a deferred-compensation contractual arrangement, the employer does not owe this employee compensation. </p>
+<p>A "nonqualified" deferred compensation plan works differently. Compensation contributed to these plans is considered part of an employer's assets, and can be used by that employer for business reasons.<sup>5</sup> Furthermore, if an employer goes bankrupt, the target-employee of this "nonqualified" deferred compensation plan is considered an unsecured creditor.<sup>6</sup>  And as described above, "nonqualified" deferred compensation plans are designed to incentivize employee longevity. In practice, this means if an employee fails to satisfy the terms of a deferred-compensation contractual arrangement, the employer does not owe compensation to that employee. </p>
 
-<p class="has-medium-font-size"><strong>I Still Don't Get It</strong></p>
+<p><h2><strong>I Still Don't Get It</strong></h2></p>
 
 <p>As an example, consider President Brown at State University. Let's say President Brown's employment contract establishes in 2015 a "nonqualified" deferred compensation plan for her. And State University is contractually obligated to annually credit $100,000 this "nonqualified" deferred compensation plan on July 1st of each of the following years: 2016, 2017, 2018, 2019, and 2020 — as long as President Brown is still employed at State University.</p>
 
