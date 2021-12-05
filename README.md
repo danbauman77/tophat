@@ -6,7 +6,7 @@
   <li>That data, supplemented with links to additional sources of employer information (specifically, Paycheck Protection Program and WARN alert data points)</li>
 </ol>
 
-<p>As mentioned, the centerpiece data in this repository comes from the U.S. Department of Labor. A <a rel="noreferrer noopener" href="https://www.askebsa.dol.gov/tophatplansearch" data-type="URL" data-id="https://www.askebsa.dol.gov/tophatplansearch" target="_blank">limited-feature search portal</a> is available on DOL's website (as of 12/4/2021) to download "top hat statement" pdf files. However, this portal lacks key contextual information (<a href="https://www.askebsa.dol.gov/efile/Home/tophat" target="_blank" rel="noreferrer noopener">input via web form by employers</a>). Thankfully, that additional contextual information is available in a dataset format.</p>
+<p>As mentioned, the centerpiece data in this repository comes from the U.S. Department of Labor. A <a href="https://www.askebsa.dol.gov/tophatplansearch" target="_blank">limited-feature search portal</a> is available on DOL's website (as of 12/4/2021) to download "top hat statement" pdf files. However, this portal lacks key contextual information (<a href="https://www.askebsa.dol.gov/efile/Home/tophat" target="_blank">input via web form by employers</a>). Thankfully, that additional contextual information is available in a dataset format.</p>
 
 <p><h2><strong>What are Top Hat Plans?</strong></h2></p>
 
@@ -57,31 +57,33 @@
 
 <p><h2><strong>You Better Download The Actual Top Hat Statements</strong></h2></p>
 
-For whatever reason, the top hat dataset obtained from DOL fails to include all of the contextual information present in electroinically submitted top hat statements. For instance, consider this row from the dataset, which concerns a filing from Assumption University, dated 9/9/2020: 
+<p>For whatever reason, the top hat dataset obtained from DOL fails to include all of the contextual information present in electroinically submitted top hat statements. For instance, consider this row from the dataset, which concerns a filing from Assumption University, dated 9/9/2020:</p> 
 
-Filing Date: 9/9/2020
-Filing Type: Tophat
-Filing Method: Electronic
-Sponsor EIN: 42105776
-Filing Name: Assumption University
-Plan Name or Paper Filing Notes: Assumption University 457(f) Deferred Compensation Plan
-Employer Name: Assumption University
-Employer Address 1: 500 Salisbury Street
-Employer Address 2
-Employer City: Worcester
-Employer State: MA
-Employer Zip Code: 01609
-Participants: 1
-No. of Plans in Filing: 1
-No. of Filings: 1
+<ul>
+  <li>Filing Date: 9/9/2020</li>
+  <li>Filing Type: Tophat</li>
+  <li>Filing Method: Electronic</li>
+  <li>Sponsor EIN: 42105776</li>
+  <li>Filing Name: Assumption University</li>
+  <li>Plan Name or Paper Filing Notes: Assumption University 457(f) Deferred Compensation Plan</li>
+  <li>Employer Name: Assumption University</li>
+  <li>Employer Address 1: 500 Salisbury Street</li>
+  <li>Employer Address 2:</li>
+  <li>Employer City: Worcester</li>
+  <li>Employer State: MA</li>
+  <li>Employer Zip Code: 01609</li>
+  <li>Participants: 1</li>
+  <li>No. of Plans in Filing: 1</li>
+  <li>No. of Filings: 1</li>
+</ul>
+  
+<p>But when you download the <a href="https://www.askebsa.dol.gov/tophatplansearch/Home/DownloadPdf?id=000000006927&form_type=Top%20Hat" target="_blank">actual statement pdf file</a> from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and ...</p>
 
-But when you download the actual statement pdf file from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and this ...
+<p><h5>"The Plan is effective as of July 1, 2020 and was adopted on September 8, 2020. The Plan has one participant (Francesco C. Cesareo, Ph.D.)."</h5></p>
 
-"The Plan is effective as of July 1, 2020 and was adopted on September 8, 2020. The Plan has one participant (Francesco C. Cesareo, Ph.D.)."
+<p>Francesco C. Cesareo is the president of Assumption University. Obviously, that is some very important information for my reporting that I wouldn't have known about had I not downloaded the actual statement.</p>
 
-Francesco C. Cesareo is the president of Assumption University. Obviously, that is some very important information for my reporting that I wouldn't have known about had I not downloaded the actual statement. 
-
-<p class="has-medium-font-size"><strong>What's This Stuff About PPP Loans and WARN Alerts</strong></p>
+<p><h2><strong>What's This Stuff About PPP Loans and WARN Alerts</strong></h2></p>
 
 Congizent of the value information contained in this dataset, I took the time to query (by keyword) two additional sources of information before I published it here on Github. I added links to:
 1. Hits I got using ProPublica's searchable database of Small Business Administration PPP loans
