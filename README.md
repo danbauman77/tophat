@@ -79,7 +79,7 @@
   
 <p>But when you download the <a href="https://www.askebsa.dol.gov/tophatplansearch/Home/DownloadPdf?id=000000006927&form_type=Top%20Hat">actual statement pdf file</a> from DOL's portal, we learn some additional information about this plan. There's the name of the plan adminstrator, their contact information, and ...</p>
 
-<p><h5>"The Plan is effective as of July 1, 2020 and was adopted on September 8, 2020. The Plan has one participant (Francesco C. Cesareo, Ph.D.)."</h5></p>
+<p><h4>"The Plan is effective as of July 1, 2020 and was adopted on September 8, 2020. The Plan has one participant (Francesco C. Cesareo, Ph.D.)."</h4></p>
 
 <p>Francesco C. Cesareo is the president of Assumption University. Obviously, that is some very important information for my reporting that I wouldn't have known about had I not downloaded the actual statement.</p>
 
